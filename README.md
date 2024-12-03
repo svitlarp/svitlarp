@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @svitlarp
-- 👀 I’m interested in DataBase Design and Development
-- 🌱 I’m currently learning API Design Patterns
+- 👀 I’m interested in DataBase design, development, maintenance, scaling and administration.
+- 🌱 I’m currently learning architecture of Cloud Data Bases Management System 
 - 💞️ I’m looking to collaborate on projects related to maintenance a data intensive app
-- 😄 Pronouns: ambitious, enthusiastic 
-- ⚡ Fun fact: My favorite ice creame flavour is litchi and passion fruit | If you could only watch one movie or television show for the rest of my life, it would be a TravelBlog  - I'm never boring with it.
 
 <!---
 svitlarp/svitlarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
