@@ -29,4 +29,4 @@ TravelVersioning =) : "When you travel, you not only discover a new places, but 
 ![example workflow](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge)
 ![example workflow](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-Live demo of my HTML & CSS project: https://svitlarp.github.io/goit-markup-hw-01/ 
+Live demo of my HTML & CSS project: https://svitlarp.github.io/goit-markup-hw-02/ 
